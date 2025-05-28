@@ -2,8 +2,8 @@
 
 import React from 'react';
 import { Box } from '@mui/material';
-import Sidebar from '../components/common/sidebar';
-import AppBarComponent from '../components/common/appbarcomp';
+import Sidebar from '../components/Common/sidebar';
+import AppBarComponent from '../components/Common/appbarcomp';
 import SettingsPage from '../components/settingschange';
 import RecruiterSidebar from '../components/common/recruiter_sidebar';
 import RecruiterAppBarComponent from '../components/common/recruiter_appbarcomp';
