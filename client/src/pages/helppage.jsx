@@ -9,8 +9,8 @@ import {
 } from "@mui/material";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
-import Sidebar from "../components/common/sidebar";
-import AppBarComponent from "../components/common/appbarcomp";
+import Sidebar from "../components/Common/sidebar";
+import AppBarComponent from "../components/Common/appbarcomp";
 
 const faqs = [
   {

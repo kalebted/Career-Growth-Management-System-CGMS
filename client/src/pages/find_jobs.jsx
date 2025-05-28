@@ -3,8 +3,8 @@
 import React, { useEffect, useState } from 'react';
 import { Box } from '@mui/material';
 import { useLocation } from 'react-router-dom';
-import Sidebar from '../components/common/sidebar';
-import AppBarComponent from '../components/common/appbarcomp';
+import Sidebar from '../components/Common/sidebar';
+import AppBarComponent from '../components/Common/appbarcomp';
 import FiltersSidebar from '../components/filtersidebar';
 import JobSearchResults from '../components/jobsearchresults';
 import SearchBox from '../components/searchbox';
