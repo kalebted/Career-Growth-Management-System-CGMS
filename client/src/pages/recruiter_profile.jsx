@@ -4,7 +4,7 @@ import Sidebar from '../components/common/recruiter_sidebar';
 import AppBarComponent from '../components/common/recruiter_appbarcomp';
 import Company from '../components/Recruiter/company';
 import RecruiterDetails from '../components/Recruiter/recruiter_details';
-import RecruiterSidebar from '../components/common/recruiter_sidebar';
+import RecruiterSidebar from '../components/common/recruiter_sidebar.jsx';
 import RecruiterAppBarComponent from '../components/common/recruiter_appbarcomp';
 
 

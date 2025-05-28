@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box } from '@mui/material';
 import SettingsPage from '../components/settingschange';
-import RecruiterSidebar from '../components/common/recruiter_sidebar';
+import RecruiterSidebar from '../components/common/recruiter_sidebar.jsx';
 import RecruiterAppBarComponent from '../components/common/recruiter_appbarcomp';
 
 const RecruiterSettings = () => (
